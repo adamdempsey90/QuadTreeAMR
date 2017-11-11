@@ -1,5 +1,5 @@
 [ ] Tree:
-	[ ] Save current tree state.
+	[x] Save current tree state.
 	[ ] Tag cells for refinement.
 	[ ] Refine cells.
 	[ ] Transfer data to child 0 on refinement.
