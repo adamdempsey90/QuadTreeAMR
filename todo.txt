@@ -1,0 +1,8 @@
+[ ] Tree:
+	[ ] Save current tree state.
+	[ ] Tag cells for refinement.
+	[ ] Refine cells.
+	[ ] Transfer data to child 0 on refinement.
+[ ] Data class.
+[ ] Test if it's faster to walk tree, or to store names in dict.
+[ ] How to compute contours.
