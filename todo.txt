@@ -1,9 +1,5 @@
 [ ] Tree:
-	[x] Save current tree state.
-	[x] Tag cells for refinement.
-	[x] Refine cells.
-		- [ ] Do we want to refine all cells surrounding. Or only cells who satisfy the criteria.
-	[x] Transfer data to child 0 on refinement.
+	[ ] More tests on refinement?
 [ ] Data class.
-[ ] Test if it's faster to walk tree, or to store names in dict.
+[ ] Put into module.
 [ ] How to compute contours.
